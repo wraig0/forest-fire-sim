@@ -6,7 +6,7 @@ A C++ console program to simulate the spreading of fire in a forest.
 
 - Or compiled using your IDE.
 
-## Summary
+## In Summary
 
 This project was done for my second year undergraduate C++ module, to demonstrate use of object oriented programming. 
 
