@@ -2,9 +2,9 @@
 
 A C++ console program to simulate the spreading of fire in a forest. 
 
-program can be run from: forest-fire-sim-master/Debug/forestFireSim.exe 
+- This program can be run from: forest-fire-sim-master/Debug/forestFireSim.exe 
 
-or compiled using your IDE.
+- Or compiled using your IDE.
 
 ## Summary
 
